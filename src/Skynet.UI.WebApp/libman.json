@@ -3,16 +3,14 @@
   "defaultProvider": "cdnjs",
   "libraries": [
     {
-      "library": "jquery@3.6.0",
+      "library": "jquery@3.5.1",
       "destination": "wwwroot/lib/jquery/",
       "files": [
-        "jquery.js",
-        "jquery.min.js"
-
+        "jquery.js"
       ]
     },
     {
-      "library": "jquery-validate@1.19.3",
+      "library": "jquery-validate@1.17.0",
       "destination": "wwwroot/lib/jquery-validate/",
       "files": [
         "localization/methods_pt.js",
@@ -21,20 +19,20 @@
       ]
     },
     {
-      "library": "jquery-validation-unobtrusive@3.2.12",
+      "library": "jquery-validation-unobtrusive@3.2.11",
       "destination": "wwwroot/lib/jquery-validation-unobtrusive/",
       "files": [
         "jquery.validate.unobtrusive.js"
       ]
     },
     {
-      "library": "twitter-bootstrap@5.1.0",
+      "library": "bootstrap@4.5.3",
       "destination": "wwwroot/lib/bootstrap/",
       "files": [
-        "js/bootstrap.js",
-        "css/bootstrap.css",
+        "css/bootstrap-grid.css",
         "css/bootstrap-reboot.css",
-        "css/bootstrap-grid.css"
+        "css/bootstrap.css",
+        "js/bootstrap.js"
       ]
     },
     {
