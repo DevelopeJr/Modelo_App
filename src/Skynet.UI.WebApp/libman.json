@@ -54,25 +54,5 @@
         "webfonts/fa-solid-900.woff"
       ]
     }
-  ,
-{
-  "library": "bootstrap@4.5.3",
-  "destination": "wwwroot/lib/bootstrap/js/bootstrap/",
-  "files": [
-    "js/bootstrap.js.map"
   ]
-}
-,
-{
-  "library": "bootstrap@4.5.3",
-  "destination": "wwwroot/lib/bootstrap/",
-  "files": [
-    "js/bootstrap.js.map",
-    "js/bootstrap.js",
-    "css/bootstrap-grid.css",
-    "css/bootstrap-reboot.css",
-    "css/bootstrap.css"
-  ]
-}
-]
 }
